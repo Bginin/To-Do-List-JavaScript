@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+.oooh-baby-regular {
+    font-family: "Oooh Baby", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+.container {
+    background-color: white;
+    max-width: 100vw;
+   
+    margin: auto;
+    text-align: center;
+}
+.container-to-do {
+   max-width: 799px;
+   
+    margin: 3rem auto;
+    background-color: rgb(236, 242, 247);
+    flex-direction: column;
+    padding: 3rem;
+    justify-content: space-between;
+    border-radius: 5%;
+}
+.title {
+    margin-bottom: 2rem;
+    padding: 2rem;
+}
+.input-group {
+   
+    text-align: center;
+    margin-bottom: 2rem;
+}
+#btn-remove {
+    background-color: red;
+    color: white;
+}
+#button-addon2 {
+    background-color: rgb(68, 161, 68);
+    color: white;
+}
+p {
+    text-align: center;
+    margin: 1rem auto;
+    font-size: 1.5rem;
+   
+}
+ul {
+    padding: 0;
+    margin-top: 4rem
+   
+}
+#buttons {
+    margin-bottom: ;
+}
